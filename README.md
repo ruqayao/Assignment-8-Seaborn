@@ -60,7 +60,7 @@ Methods:
 - distribution_plots(): shows distributions of values
 - categorical_plots(): compares categories
 # Implementation
-The project is implemented using two main Python classes:
+The assignment is implemented using two main Python classes:
 
 ExerciseVisualizer
 
